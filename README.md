@@ -18,6 +18,7 @@ Here are some examples of searches:
 ## Summary
 One drawback of this webpage is that the search criteria must be exactly equal to the table elements. This can be confusing to people if they're used to entering dates in different formats or capitalizing items such as city, state, and country.
  
+ ### Improvements
 Additionally, here are two recommendations for further improving this site:
 
 1. I would correct the draw back listed above. It would correct the code so it did not matter if letters were capitalized or not in the city, state, country, and shape fields. Also, the date layout would work in the current form (m/d/yyyy) or in the form (mm/dd/yyyy).
